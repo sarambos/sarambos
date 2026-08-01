@@ -34,12 +34,16 @@ I also presented research at the Frontiers in Education Conference and the Globa
 ### Tech Stack
 
 - Languages
+
   Java • Python • TypeScript • JavaScript • C++ • SQL
 - Development
+
   React Native • Expo • REST APIs • Git • GitHub
 - Cloud & Backend
+
   AWS Lambda • API Gateway • DynamoDB • AWS SAM
 - AI / ML
+
   Machine Learning • Natural Language Processing • PyTorch
 
 ### Currently
