@@ -11,7 +11,7 @@ My experience includes building mobile and cloud-based applications and conducti
 A mobile expense-splitting application designed to simplify splitting shared expenses.
 
 - Built with React Native, Expo, and TypeScript
-- Developed a serverless backend using AWS Lambda and API Gateway
+- Developed a serverless backend using AWS SAM and API Gateway
 - Integrated DynamoDB for persistent expense and receipt history
 - Implemented expense calculations, tipping, and split reports
 - Developed collaboratively using Git and GitHub
