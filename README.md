@@ -57,7 +57,7 @@ I also presented research at the Frontiers in Education Conference and the Globa
 
 I'm currently interested in software engineering and software development opportunities.
 
-[LinkedIn](www.linkedin.com/in/stephaniesarambo)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/stephaniesarambo)
 
 Feel free to explore my repositories and reach out!
 <!--
