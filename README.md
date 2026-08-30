@@ -48,10 +48,9 @@ I also presented research at the Frontiers in Education Conference and the Globa
 
 ### Currently
 
-- Building and refining my software engineering portfolio
-- Developing mobile, backend, and cloud-based applications
-- Expanding my experience with production software systems
-- Exploring new applications of AI and machine learning
+- Developing a Java + Spring Boot project to expand my backend development experience
+- Polishing and documenting my software engineering portfolio
+- Exploring applications of AI/ML and NLP
 
 ### Let's Connect!
 
