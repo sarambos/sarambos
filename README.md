@@ -48,7 +48,7 @@ I also presented research at the Frontiers in Education Conference and the Globa
 
 ### Currently
 
-- Developing a Java + Spring Boot project to expand my backend development experience
+- Planning my next project using Java + Spring Boot, with a focus on backend development and REST APIs
 - Polishing and documenting my software engineering portfolio
 - Exploring applications of AI/ML and NLP
 
