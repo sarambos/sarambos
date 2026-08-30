@@ -49,7 +49,7 @@ I also presented research at the Frontiers in Education Conference and the Globa
 ### Currently
 
 - Planning my next project using Java + Spring Boot, with a focus on backend development and REST APIs
-- Polishing and documenting my software engineering portfolio
+- Preparing my graduate simultaneous machine translation research for GitHub
 - Exploring applications of AI/ML and NLP
 
 ### Let's Connect!
