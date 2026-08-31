@@ -25,6 +25,15 @@ A mobile application for translating text between languages and listening to tra
 - Implemented multilingual language selection and audio playback
 - Designed reusable components and centralized API configuration
 
+## Selected Projects
+
+- Vital: React Native/TypeScript + Gemini-powered emergency guidance; Pearl Hacks 2026
+- Glutten: Java/JDBC/SQL food and restaurant search application; HackNC 2024
+- Meal Plan Budgeter: C++ terminal application; 1st Place, ECU Spark Hackathon
+- World Wide Web Pastures: deployed Phaser/Firebase farming game; crop system, map, and character movement
+- Snack Bytes: JavaScript gaming platform; developed Solitaire and designed retro playing cards
+- Simulation Showcase: Three.js graphics project; developed interactive Rubik's Cube simulation
+
 ### Research
 
 My graduate research focused on uncertainty-aware simultaneous machine translation, exploring approaches for making translation decisions while source-language information is received incrementally.
